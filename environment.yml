@@ -1,0 +1,13 @@
+name: music_gen
+dependencies:
+    - python=3.6
+    - tensorflow
+    - nb_conda_kernels
+    - pip:
+        - autopep8
+        - jupyter_contrib_nbextensions
+        - jupyter_nbextensions_configurator
+        - jupyterthemes
+        - mido
+        - music21
+        - tqdm

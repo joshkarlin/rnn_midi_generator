@@ -1,0 +1,8 @@
+# data folders
+./checkpoints
+./data
+./output
+./samples
+
+# jupyter notebook checkpoints
+./ipynb_checkpoints
