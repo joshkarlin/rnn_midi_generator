@@ -1,4 +1,4 @@
-# Midi gereration using Keras
+# MIDI Generation using Keras
 
 Train RNN and LSTM model on MIDI files and then predict based on a random pattern from the training data. 
 
